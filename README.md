@@ -1,37 +1,34 @@
 
 # Hi there! 👋 I am Foroozan
 
-I am a **Data Science Master's Student** with a background in **Engineering, UX Design, and Photography**. Passionate about **Machine Learning, Data Analysis, and Visualization**.
+I am a **Data Science Master's Student** with a background in **Engineering, UX Design, and Photography**.
+Passionate about **Machine Learning, Data Analysis, and Visualization**.
 
 
 ---
 
-## 💡 About Me
+## 💡 More About Me
 - 🎓 **Master's Student in Data Science** | Background in **Engineering & UX Design**
 - 🔍 Passionate about **Machine Learning, Data Analysis, and Visualization**
 - 🏆 Strong problem-solving mindset and **love for continuous learning**
 - 🌱 Always excited to explore **new technologies & interdisciplinary projects**
-- 🤝 Open to **collaborations and innovative projects** that make a difference
+- 🤝 Open to **collaborations and innovative projects** that make a difference!
 
 ---
 
 ## 🛠️ Technologies & Tools
 - **Programming:** Python, SQL, R
-- **Data Analysis:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+- **Data Analysis:** Pandas, NumPy, Scikit-Learn
 - **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Databases:** PostgreSQL, MySQL
 - **Cloud & Deployment:** Docker, kubernetes, AWS
 - **Version Control:** Git & GitHub
-
----
-
-## 📚 Featured Projects
-### 🏆 [Predict-Stock-Price](https://github.com/ForoozanE/Predict-Stock-price)
-> Forecasting stock closing prices using Machine Learning techniques.
-
-### 🏗️ [Create-a-data-processing-pipeline](https://github.com/ForoozanE/Create-a-data-processing-pipeline)
-> Data processing pipeline for analyzing large datasets.
-
+  
+### 🎨 UX Design & Prototyping
+- **Wireframing & Prototyping:** Figma
+- **User Research & Testing:** Google Analytics
+- **Graphic Design:** Adobe Illustrator, Photoshop
+- **Collaboration & Documentation:** Notion, Miro, FigJam
 ---
 
 ## 📫 Connect with Me!
