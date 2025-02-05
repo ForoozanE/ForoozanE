@@ -9,7 +9,7 @@ I am Foroozan, a **Data Science Master's Student** with a background in **Engine
 ## 💡 More About Me
 - 🎓 **Master's Student in Data Science** | Background in **Engineering & UX Design**
 - 🔍 Passionate about **Machine Learning, Data Analysis, and Visualization**
-- 🏆 Strong problem-solving mindset and **love for continuous learning**
+- 🏆 Strong **problem-solving** mindset and **love for continuous learning**
 - 🌱 Always excited to explore **new technologies & interdisciplinary projects**
 - 🤝 Open to **collaborations and innovative projects** that make a difference!
 
@@ -20,7 +20,7 @@ I am Foroozan, a **Data Science Master's Student** with a background in **Engine
 - **Data Analysis:** Pandas, NumPy, Scikit-Learn
 - **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
 - **Databases:** PostgreSQL, MySQL
-- **Cloud & Deployment:** Docker, kubernetes, AWS
+- **Cloud & Deployment:** Docker, Kubernetes, AWS
 - **Version Control:** Git & GitHub
   
 ### 🎨 UX Design & Prototyping
