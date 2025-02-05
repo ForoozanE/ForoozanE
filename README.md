@@ -1,8 +1,7 @@
 
-# Hi there! 👋 I am Foroozan
+# Hi there! 👋 
 
-I am a **Data Science Master's Student** with a background in **Engineering, UX Design, and Photography**.
-Passionate about **Machine Learning, Data Analysis, and Visualization**.
+I am Foroozan, a **Data Science Master's Student** with a background in **Engineering, UX Design, and Photography**.
 
 
 ---
