@@ -38,7 +38,7 @@ I am Foroozan, a **Data Science Master's Student** with a background in **Engine
 - UX Design certification (Noroff School of Technology and Digital Media)  
 - Experience with Figma and user-centered design  
 - Helps translate analytical results into intuitive and usable insights
-- 
+  
 ---
 
 ## 📫 Connect with Me!
