@@ -3,7 +3,6 @@
 
 I am Foroozan, a **Data Science Master's Student** with a background in **Engineering, UX, and Design**.
 
-📍 Stavanger, Norway  
 ---
 
 ## 🔍 What I Focus On
