@@ -1,39 +1,50 @@
 
 # Hi there! 👋 
 
-I am Foroozan, a **Data Science Master's Student** with a background in **Engineering, UX Design, and Photography**.
+I am Foroozan, a **Data Science Master's Student** with a background in **Engineering, UX, and Design**.
+📍 Stavanger, Norway  
+---
 
+## 🔍 What I Focus On
+
+- Data analysis and exploration using Python, SQL, and Excel  
+- Building dashboards and reports for business insights  
+- Data storytelling and presenting results to non-technical stakeholders  
+- Working with structured and large-scale datasets  
 
 ---
 
-## 💡 More About Me
-- 🎓 **Master's Student in Data Science** | Background in **Engineering & UX Design**
-- 🔍 Passionate about **Machine Learning, Data Analysis, and Visualization**
-- 🏆 Strong **problem-solving** mindset and **love for continuous learning**
-- 🌱 Always excited to explore **new technologies & interdisciplinary projects**
-- 🤝 Open to **collaborations and innovative projects** that make a difference!
+## 🛠 Technical Skills
+
+**Data Analysis & Programming**  
+- Python, SQL, Excel  
+- Pandas, NumPy, Scikit-learn  
+
+**Data Visualization**  
+- Power BI, Tableau  
+- Matplotlib, Seaborn  
+
+**Databases & Big Data**  
+- Relational SQL databases  
+- Apache Spark (data pipelines, large-scale processing)  
+
+**Cloud & DevOps**  
+- Docker, Kubernetes  
+- Azure  
 
 ---
 
-## 🛠️ Technologies & Tools
-- **Programming:** Python, SQL, R
-- **Data Analysis:** Pandas, NumPy, Scikit-Learn
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-- **Databases:** PostgreSQL, MySQL
-- **Cloud & Deployment:** Docker, Kubernetes, AWS
-- **Version Control:** Git & GitHub
-  
-### 🎨 UX Design & Prototyping
-- **Wireframing & Prototyping:** Figma
-- **User Research & Testing:** Google Analytics
-- **Graphic Design:** Adobe Illustrator, Photoshop
-- **Collaboration & Documentation:** Notion, Miro, FigJam
+## 🎨 UX & Design Background (Supporting Skill)
+
+- UX Design certification (Noroff School of Technology and Digital Media)  
+- Experience with Figma and user-centered design  
+- Helps translate analytical results into intuitive and usable insights
+- 
 ---
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/foroozanebrahimzadeh/)
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github)](https://github.com/ForoozanE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)]()
 
 🚀 Let's collaborate and build something amazing!
 
